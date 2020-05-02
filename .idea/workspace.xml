@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d1000c2-fb15-49ca-9d0e-3af3526f37d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SparkJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/data/people.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SparkActionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SparkContextFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SparkDataFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SparkTransformExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/SparkJava.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SparkActionExample$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SparkActionExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SparkContextFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SparkDataFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SparkTransformExample.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bLgFH1MOhVzedh0eZwYW5oIuEl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="SparkJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d1000c2-fb15-49ca-9d0e-3af3526f37d1" name="Default Changelist" comment="" />
+      <created>1588416682321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588416682321</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="305" y="45" key="#Project_Structure" timestamp="1588431388945">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="305" y="45" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1588431388945" />
+    <state x="167" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588431161848">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="167" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588431161848" />
+    <state x="437" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588433967755">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1588433967755" />
+    <state x="442" y="167" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588417856706">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="167" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1588417856706" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588429705946">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1588429705946" />
+    <state x="413" y="111" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1588434309460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588434309460" />
+    <state width="1323" height="131" key="GridCell.Tab.0.bottom" timestamp="1588438899191">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="131" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588438899191" />
+    <state width="1323" height="131" key="GridCell.Tab.0.center" timestamp="1588438899191">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="131" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588438899191" />
+    <state width="1323" height="131" key="GridCell.Tab.0.left" timestamp="1588438899190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="131" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588438899190" />
+    <state width="1323" height="131" key="GridCell.Tab.0.right" timestamp="1588438899191">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="131" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588438899191" />
+    <state width="1286" height="35" key="GridCell.Tab.1.bottom" timestamp="1588419287640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="35" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588419287640" />
+    <state width="1286" height="35" key="GridCell.Tab.1.center" timestamp="1588419287640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="35" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588419287640" />
+    <state width="1286" height="35" key="GridCell.Tab.1.left" timestamp="1588419287640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="35" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588419287640" />
+    <state width="1286" height="35" key="GridCell.Tab.1.right" timestamp="1588419287640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="35" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588419287640" />
+    <state x="0" y="38" key="Maven.ArtifactSearchDialog" timestamp="1588417430188">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="38" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1588417430188" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1588439632670">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588439632670" />
+    <state x="409" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588429666947">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="236" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588429666947" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588437621565">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588437621565" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SparkJava$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1588419372027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
