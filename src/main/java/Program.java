@@ -10,8 +10,12 @@ public class Program {
             //SparkTransformExample sparkTransformExample = new SparkTransformExample();
             //sparkTransformExample.sparkTransformExample();
 
-            SparkDataFrame sparkDataFrame = new SparkDataFrame();
-            sparkDataFrame.sparkDataRead();
+            //SparkDataFrame sparkDataFrame = new SparkDataFrame();
+            //sparkDataFrame.sparkDataRead();
+
+            SparkJDBCMySQL sparkJDBCMySQL = new SparkJDBCMySQL();
+            sparkJDBCMySQL.readMySQLData();
+
 
             System.out.println("End of main program");
         } catch(Exception ex){

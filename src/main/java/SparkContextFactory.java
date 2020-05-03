@@ -30,4 +30,9 @@ public class SparkContextFactory {
         return sqlContext.sparkSession();
     };
 
+    public static SQLContext getSqlContext(){
+        return sqlContext;
+    }
+
+
 }
